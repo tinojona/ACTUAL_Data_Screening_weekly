@@ -13,7 +13,7 @@ Author: Tino Schneidewind
 ### How to set up this App
 1. create a folder in a place of your choice
 2. fork this repository on GitHub to your GitHub account
-3. open a new R project by selecting Version Control -> Git (for this Git needs to be set up on your laptop, (instructions for this)[https://geco-bern.github.io/agds_book/getting_started.html#git-1])
+3. open a new R project by selecting Version Control -> Git (for this Git needs to be set up on your laptop, [instructions for this](https://geco-bern.github.io/agds_book/getting_started.html#git-1))
 4. Copy paste the repository URL of your GitHub repository with my App in the "Repository URL" field, and save it as a subdirectory of the folder you created in (1.)
 6. create in the initial folder from (1.) a folder calles "data"
 7. now you can open the now downloaded Rproj file in Rstudio, and open the 01_getREDCap.R file
